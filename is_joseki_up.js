@@ -1,6 +1,4 @@
 // http://www.2ality.com/2011/12/nodejs-shell-scripting.html
-#!/usr/bin/env node
-
 
 //http://blog.modulus.io/node.js-tutorial-how-to-use-request-module
 
